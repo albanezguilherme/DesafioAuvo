@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<div class="text-center">
+    <h3 class="display-4">Guilherme Costa Albanez</h3>
+    <p>Cargo: Desenvolvedor Pleno</p>
+    <p>Pretensão: R$ 7000,00 ~ R$ 7500,00</p>
+    <p>Data do Teste: 28/09/2023</p>
+</div>
+
+<div class="text-center">
+    <input type="text" id="filePath" />
+    <a href="#" class="btn btn-primary" id="processFiles">Submit</a>
+    
+</div>
+
+
+
+<script>
+    $(document).ready(function() {
+        $('#processFiles').on("click", function() {
+            event.preventDefault;
+            var filePath = $('#filePath').val();
+            window.location.href = "@Url.Action("ProcessFiles", "File")" + "?filePath=" + filePath;
+        });
+    });
+</script>

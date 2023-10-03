@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DesafioAuvo/1.0.0": {
+        "dependencies": {
+          "DesafioAuvo.Core": "1.0.0",
+          "DesafioAuvo.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "DesafioAuvo.dll": {}
+        }
+      },
+      "DesafioAuvo.Core/1.0.0": {
+        "runtime": {
+          "DesafioAuvo.Core.dll": {}
+        }
+      },
+      "DesafioAuvo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DesafioAuvo.Core": "1.0.0"
+        },
+        "runtime": {
+          "DesafioAuvo.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioAuvo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioAuvo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesafioAuvo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

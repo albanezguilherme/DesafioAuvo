@@ -1,0 +1,15 @@
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.csproj.AssemblyReference.cache
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.AssemblyInfoInputs.cache
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.AssemblyInfo.cs
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\bin\Debug\net7.0\DesafioAuvo.Infrastructure.deps.json
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\bin\Debug\net7.0\DesafioAuvo.Infrastructure.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\bin\Debug\net7.0\DesafioAuvo.Infrastructure.pdb
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\bin\Debug\net7.0\DesafioAuvo.Core.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\bin\Debug\net7.0\DesafioAuvo.Core.pdb
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.csproj.CopyComplete
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\refint\DesafioAuvo.Infrastructure.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\DesafioAuvo.Infrastructure.pdb
+C:\Temp\DesafioAuvo\DesafioAuvo.Infrastructure\obj\Debug\net7.0\ref\DesafioAuvo.Infrastructure.dll

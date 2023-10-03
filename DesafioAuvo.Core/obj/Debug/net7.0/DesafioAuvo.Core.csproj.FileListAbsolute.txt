@@ -1,0 +1,12 @@
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\bin\Debug\net7.0\DesafioAuvo.Core.deps.json
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\bin\Debug\net7.0\DesafioAuvo.Core.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\bin\Debug\net7.0\DesafioAuvo.Core.pdb
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.csproj.AssemblyReference.cache
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.AssemblyInfoInputs.cache
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.AssemblyInfo.cs
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.csproj.CoreCompileInputs.cache
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\refint\DesafioAuvo.Core.dll
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\DesafioAuvo.Core.pdb
+C:\Temp\DesafioAuvo\DesafioAuvo.Core\obj\Debug\net7.0\ref\DesafioAuvo.Core.dll
